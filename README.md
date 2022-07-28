@@ -1,4 +1,4 @@
-# Basic Of Redux, React-Redux, Redux-thunk concept Tutorial
+# Basic Of React-Redux And Redux-Toolkit concept Tutorial
 
 [Create React App](https://github.com/facebook/create-react-app).
 
